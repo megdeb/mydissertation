@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi. I'm Megan!
 
 You can use the [editor on GitHub](https://github.com/megdeb/ox-dissertation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
