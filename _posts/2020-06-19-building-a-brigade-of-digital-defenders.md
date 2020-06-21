@@ -8,7 +8,7 @@ toc: false
 pin: true
 ---
 
-## Similarities between local election defenders and human rights groups who are improving their security
+## Similarities between local election defenders and human rights groups who are improving their security .
 
 ![i voted sticker]({{ "assets/img/i-voted-unsplash.jpg" | relative_url }})
 
