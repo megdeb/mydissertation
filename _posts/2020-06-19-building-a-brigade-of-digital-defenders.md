@@ -3,7 +3,7 @@ title: Building a Brigade of Digital Defenders
 author: Megan DeBlois
 date: 2020-06-19 00:00:00 -0700
 categories: [Human Rights, Election Security, InfoSec]
-tags: [infosec]
+tags: [infosec, human rights, election security]
 toc: false
 pin: true
 ---
