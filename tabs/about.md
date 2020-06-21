@@ -12,5 +12,5 @@ I am currently conducting research for my dissertation at the University of Oxfo
 
 My research aims are three-fold:
 * Understand the different risks based on the technologies utilized in the 2020 primaries
-* More deeply analyze several states tool usage as case studies (from voting machines to tabulation technologies to tools utilized by volunteers and practitioners)
+* More deeply analyze tooling used in certain states as case studies (from voting machines to tabulation technologies to tools utilized by volunteers and practitioners)
 * Create a concise output of actions, improvements, and recommendations for the future
