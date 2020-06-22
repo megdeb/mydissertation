@@ -10,7 +10,7 @@
 
 title: My Dissertation                          # the main title
 
-tagline: Election technology and security.  # it will display as the sub-title
+tagline: Musings and refelctions on election technology and security.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Sharing my research around 
@@ -51,7 +51,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: '/mydissertation'
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Los_Angeles
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
